@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<title>open</title>
+<meta charset = "utf-8">
+<link href="my_style.css" rel="stylesheet" type="text/css">
+<link rel="icon" href="icon.ico" type="images/x-icon">
+</head>
+<body>
+<div id="okno">
+    <h1 align = "center">Увага!!!</h1>
+    <p>Шоб отримати доступ до ресурсу необхідно авторизуватися.<br />Ви можете авторизуватися через INSTAGRAM або Facebook</p><br />
+    <a href="inst.php"><img src="85a358fb3b7d.png" width="75px" height="75px" style="margin-right: 50px;"></a>
+    <img src="fb_icon_325x325.png" width="75px" height="75px" style="margin-left: 50px">
+</div>
+</body>
+</html>
